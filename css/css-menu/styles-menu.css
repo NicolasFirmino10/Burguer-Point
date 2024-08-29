@@ -6,3 +6,9 @@
 
 /* Container Menu */
 @import "./container.css";
+
+/* Itens */
+@import "./itens.css";
+
+/* Footer */
+@import "../footer.css";
