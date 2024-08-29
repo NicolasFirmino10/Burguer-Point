@@ -1,0 +1,13 @@
+.container_menu {
+    height: 340px;
+    width: 100%;
+    background-color: #fbe690;
+    display: flex;
+    align-items: center;
+  }
+  
+  .container_menu h1 {
+    color: #dd2803;
+    margin-left: 140px;
+    font-size: 90px;
+  }

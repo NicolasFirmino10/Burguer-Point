@@ -1,0 +1,33 @@
+
+.contatos{
+    height: 340px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .contatos_area {
+    display: flex; 
+    justify-content: space-between; 
+    gap: 100px; 
+  }
+  
+  .contatos_info p,
+  .horarios_info p {
+    margin: 10px;
+    padding: 10px; 
+  }
+  
+  .contatos_info h2, h3{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  
+  .contatos_info img{
+    margin-left: 20px;
+  }
+  
+  .horarios_info h2 {
+    margin-left: 20px;
+  }
+  

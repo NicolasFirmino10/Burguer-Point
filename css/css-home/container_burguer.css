@@ -1,0 +1,40 @@
+
+.container_burguer {
+    height: 840px;
+    width: 100%;
+    background-color: #fbe690;
+    display: flex;
+  }
+  
+  .container_headline {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  }
+  
+  .container_headline h3 {
+    color: #000;
+    font-size: 40px;
+    margin-top: 95px;
+    margin-left: 80px;
+  }
+  .container_headline h1 {
+    color: #dd2803;
+    margin-top: 275px;
+    margin: 80px;
+    font-size: 90px;
+  }
+  
+  .container_services {
+    background-color: #f9f2ea;
+    height: 860px;
+  }
+  
+  .image {
+    overflow: visible;
+    margin-right: 100px;
+  }
+  
+  .image img {
+    transform: scale(1.5);
+  }
